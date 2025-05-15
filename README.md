@@ -6,11 +6,7 @@ This repository contains my personal notes, commands, and mini-projects from the
 
 - Introduction to DevOps
 - Linux Fundamentals
-- Git & GitHub
-- Docker
-- Kubernetes
-- CI/CD (Jenkins, etc.)
-- Terraform & More
+& Ongoing
 
 ## 📁 Structure
 
@@ -54,12 +50,12 @@ Each folder corresponds to a course section and contains:
 
 ## 🛠️ Tools & Technologies
 
-- Git, GitHub
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
+- Chocolatey [Windows]
+- Virtualbox, Vagrant, Git & Github
+- JDK, Maven, AWSCli
+- Intellij IDE, VSCode, SublimeText3
 - AWS (planned)
+- Linux
 
 ---
 

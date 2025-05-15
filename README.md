@@ -10,7 +10,7 @@ This repository contains my personal notes, commands, and mini-projects from the
 - Docker
 - Kubernetes
 - CI/CD (Jenkins, etc.)
-- Terraform
+- Terraform & More
 
 ## 📁 Structure
 
@@ -26,11 +26,29 @@ Each folder corresponds to a course section and contains:
 
 - [x] DevOps Introduction
 - [ ] Linux Basics
-- [ ] Git & GitHub
-- [ ] Docker
-- [ ] Kubernetes
-- [ ] CI/CD
+- [ ] Vagrant & Linux Server
+- [ ] Variable, JSON & YAML
+- [ ] VProfile Project Setup [Manual & Automated]
+- [ ] Networking
+- [ ] Containers
+- [ ] Bash Scripting
+- [ ] AWS Part-1
+- [ ] AWS Could For Project | Lift & Shift
+- [ ] Re-Arch Web App on AWS | Pass & SAAS
+- [ ] Git
+- [ ] Maven
+- [ ] CI/CD With Jenkins
+- [ ] Python
 - [ ] Terraform
+- [ ] Anisble
+- [ ] AWS Part-2
+- [ ] AWS with CI/CD
+- [ ] Docker
+- [ ] Containerization
+- [ ] Kubernetes
+- [ ] App Deployment on Kubernetes Cluster
+- [ ] GitOps Project
+- [ ] Conclusion
 
 ---
 

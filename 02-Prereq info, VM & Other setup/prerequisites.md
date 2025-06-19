@@ -93,3 +93,29 @@ On my local Windows machine, I've installed various DevOps tools using **Chocola
 ---
 * You can verify installation using `choco list`
 ---
+
+## Signups
+
+* **Accounts Needed:**
+    * [List of services requiring signup, e.g., GitHub, GoDaddy,Docker Hub, SonarCloud]
+* **Important Notes for Each Signup:**
+    * GitHub: [Select Free Plan]
+    * GoDaddy: [Purchase a low-cost domain, e.g., yourdomainname.xyz]
+    * SonarCloud:
+
+## 15. AWS Setup
+
+**I have configured an Amazon Web Services (AWS) Elastic Compute Cloud (EC2) instance for cloud-based deployments and experimentation.**
+
+* Created Free Tier Account, Root User [Assigned MFA]
+* Created IAM user [Added AdministratorAccess policies, Assigned MFA], Account Alias
+* Configured an EC2 instance.
+    * Added an SSH certificate for secure login.
+* Purchased a custom domain: **aalfaroque.me**.
+* Mapped the custom domain to the EC2 instance using Route 53 and the EC2 instance's IP address.
+* Added & Set Billing Alarm
+* **AWS CLI Installation/Configuration:**
+    * [Steps for setting up AWS CLI]
+    * `aws configure`
+* **Region/Availability Zone Considerations:**
+    * [Notes: Region: US East N. Virginia]

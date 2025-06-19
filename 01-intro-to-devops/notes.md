@@ -110,14 +110,6 @@ vagrant init generic/ubuntu2204
 vagrant up
 vagrant ssh
 ```
-#  AWS Setup
-
-I have configured an Amazon Web Services (AWS) Elastic Compute Cloud (EC2) instance for cloud-based deployments and experimentation.
-
-- Configured an EC2 instance.  
-- Added an SSH certificate for secure login.  
-- Purchased a custom domain: **aalfaroque.me**.  
-- Mapped the custom domain to the EC2 instance using Route 53 and the EC2 instance's IP address.  
 
 
 

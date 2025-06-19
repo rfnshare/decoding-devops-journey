@@ -65,6 +65,13 @@ DevOps is a set of practices, tools, and a cultural philosophy that automates an
 
 ---
 
+## What is CI/CD
+
+- **CI**: Continuous integration is a DevOps software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run.
+- **CD**: Continuous delivery is a software development practice where code changes are automatically prepared for a release to production.
+
+---
+
 ## 🖥️ Local VM Setup for DevOps Practice
 
 ### 🔧 Tools Used:

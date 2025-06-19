@@ -119,18 +119,6 @@ I have configured an Amazon Web Services (AWS) Elastic Compute Cloud (EC2) insta
 - Purchased a custom domain: **aalfaroque.me**.  
 - Mapped the custom domain to the EC2 instance using Route 53 and the EC2 instance's IP address.  
 
-# Personal Lab Setup & Tools
 
-On my local Windows machine, I've installed various DevOps tools using Chocolatey, a package manager for Windows.
-
-- **VirtualBox:** For running the local Ubuntu virtual machine.  
-- **Vagrant:** For managing and provisioning the virtual machine.  
-- **Git:** For version control and collaboration.  
-- **Amazon Corretto (Java):** A no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).  
-- **Maven:** A build automation tool primarily used for Java projects.  
-- **AWS CLI:** The official command-line interface for interacting with AWS services.  
-- **IntelliJ IDEA:** An integrated development environment (IDE) for Java and other languages.  
-- **Visual Studio Code:** A lightweight but powerful source code editor.  
-- **Sublime Text 3:** A sophisticated text editor for code, markup, and prose.  
 
 
